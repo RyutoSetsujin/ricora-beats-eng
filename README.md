@@ -39,6 +39,9 @@
     </a>
   </div>
   <p>
+    A modification of RICORA Beats with full English language support and extra songs (WIP).
+  </p>
+  <p>
     Cross-platform rhythm game played with touch screen or keyboard by <a href="https://tus-ricora.com/">RICORA</a>
   </p>
 </div>
